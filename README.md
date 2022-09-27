@@ -1,2 +1,3 @@
-# Alura Plus
- Site desenvolvido para estudos em HTML e CSS
+<h1>Alura Plus</h1>
+
+<p>Projeto feito para estudo em um dos cursos da Alura</p>
